@@ -4,6 +4,7 @@ To simulate an operational amplifier based Integrator circuit to integrate signa
 ## Apparatus required:
 PC with LT Spice Software
 ## Circuit Diagram:
+<img width="830" height="641" alt="image" src="https://github.com/user-attachments/assets/bd9f1f4b-f40e-4381-bd15-8e9029913555" />
 
 ## Simulation Procedure:
 1.	Open the Ltspice software
@@ -39,5 +40,8 @@ PC with LT Spice Software
 16.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## Output:
+<img width="1571" height="430" alt="image" src="https://github.com/user-attachments/assets/142b1aa6-8c56-4a93-82fe-978b68adc1d7" />
+
 
 ## Result:
+Thus the integrator circuit was simulated and output verified.
