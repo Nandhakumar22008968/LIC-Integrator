@@ -40,8 +40,14 @@ PC with LT Spice Software
 16.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## Output:
-<img width="1571" height="430" alt="image" src="https://github.com/user-attachments/assets/142b1aa6-8c56-4a93-82fe-978b68adc1d7" />
+## INPUT WAVEFORM
+<img width="952" height="460" alt="image" src="https://github.com/user-attachments/assets/cd7b0db3-8cd1-47f7-a6de-0b55c2410658" />
+
+## OUTPUT WAVEFORM
+<img width="965" height="455" alt="image" src="https://github.com/user-attachments/assets/4953f473-de78-4049-b503-4a16ac481553" />
 
 
 ## Result:
-Thus the integrator circuit was simulated and output verified.
+![WhatsApp Image 2025-11-23 at 17 04 09_89b15416](https://github.com/user-attachments/assets/cb9e680a-c9d0-4f6b-a425-439f36da9f30)
+
+
